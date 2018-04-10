@@ -1,0 +1,9 @@
+{
+	"name":"test",
+	"version":"1.2.4",
+	"manifest":[{
+		"version":"1.2.0",
+		"file":["index.js"],
+		"detail":["新增项目编辑功能"]
+	}]
+}
