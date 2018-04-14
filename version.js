@@ -1,8 +1,8 @@
 {
 	"name":"test",
 	"version":"1.2.4",
+	"upDateUrl":"https://github.com/gitlwz/electron-version/raw/master/update/upgrade_tar.tar.gz",
 	"manifest":[{
-		"version":"1.2.0",
 		"file":["index.js"],
 		"detail":["新增项目编辑功能"]
 	}]
