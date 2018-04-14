@@ -4,6 +4,7 @@
 	"upDateUrl":"https://github.com/gitlwz/electron-version/raw/master/update/upgrade_tar.tar.gz",
 	"manifest":{
 		"file":["index.js"],
+		"del":["./del.js"],
 		"detail":["新增项目编辑功能"]
 	}
 }
