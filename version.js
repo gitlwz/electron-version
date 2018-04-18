@@ -1,7 +1,7 @@
 {
 	"name":"test",
 	"version":"1.2.4",
-	"upDateUrl":"http://download.dcloud.net.cn/HBuilder.9.0.2.windows.zip",
+	"upDateUrl":"https://github.com/gitlwz/electron-version/raw/master/update/upgrade_tar.tar.gz",
 	"byte":230675187,
 	"manifest":{
 		"file":["index.js"],
