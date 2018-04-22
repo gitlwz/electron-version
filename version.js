@@ -1,7 +1,7 @@
 {
 	"name":"test",
 	"version":"1.2.4",
-	"upDateUrl":"https://github.com/gitlwz/electron-version/raw/master/update/upgrade_tar.tar.gz",
+	"upDateUrl":"https://github.com/gitlwz/electron-version/raw/master/update/setup.exe",
 	"byte":230675187,
 	"manifest":{
 		"file":["index.js"],
